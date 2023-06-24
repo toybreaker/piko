@@ -18,20 +18,22 @@
 
 # Pico.css
 
-**Class-light and semantic**  
+**Class-light and semantic**
 Pico uses simple native HTML tags as much as possible. Less than 10 .classes are used in Pico.
 
-**Great styles with just one CSS file**  
+**Great styles with just one CSS file**
 No dependencies, package manager, external files, or JavaScript.
 
-**Responsive everything**  
+**Responsive everything**
 Elegant and consistent adaptive spacings and typography on all devices.
 
-**Light or Dark mode**  
+**Light or Dark mode**
 Shipped with two beautiful color themes, automatically enabled according to the user preference.
 
 # Table of contents
 
+- [Pico.css](#picocss)
+- [Table of contents](#table-of-contents)
 - [Usage](#usage)
 - [Class-less version](#class-less-version)
 - [Limitations](#limitations)
@@ -60,10 +62,10 @@ Alternatively, you can use [jsDelivr CDN](https://www.jsdelivr.com/package/npm/@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@next/css/pico.min.css" />
 ```
 
-**Install with NPM**
+**Install with PNPM**
 
 ```shell
-npm install @picocss/pico@next
+pnpm install @picocss/pico@next
 ```
 
 ```shell
