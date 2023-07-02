@@ -42,6 +42,8 @@ Shipped with two beautiful color themes, automatically enabled according to the 
 - [Contributing](#contributing)
 - [Copyright and license](#copyright-and-license)
 - [TOYBREAKER INDI DEV](#toybreaker-indi-dev)
+  - [FIRST, LIVE IN ZE FUTURE!](#first-live-in-ze-future)
+  - [BUILD](#build)
 
 # Usage
 
@@ -200,5 +202,14 @@ Licensed under the [MIT License](https://github.com/picocss/pico/blob/master/LIC
 
 # TOYBREAKER INDI [DEV](https://github.com/toybreaker/piko)
 
-1. FIRST. LIVE IN ZE FUTURE!
+1.
+
+## FIRST, LIVE IN ZE FUTURE!
+
 ```pnpm upgrade```
+
+2.
+
+##  BUILD
+
+```pnpm run-s build```

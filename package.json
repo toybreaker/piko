@@ -31,7 +31,7 @@
     "url": "https://github.com/picocss/pico/issues"
   },
   "scripts": {
-    "✨": "run-s build",
+    "F1P": "run-s build",
     "build": "run-s start lint \"build:*\" done --silent",
     "dev": "nodemon -q --watch scss/ --ext scss --exec 'run-s build'",
     "lint": "run-s \"lint:*\" --silent",
