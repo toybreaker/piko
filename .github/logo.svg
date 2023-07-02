@@ -1,15 +1,15 @@
 <svg fill="none" height="458" viewBox="0 0 1064 458" width="1064" xmlns="http://www.w3.org/2000/svg">
   <style>
     :root {
-      --pico-logo-wordmark: #2a3140;
-      --pico-logo-small-sparkles: #ffbf00;
-      --pico-logo-big-sparkle: #ff9500;
+      --pico-logo-wordmark: oklch(47.12% 0.311 265.24);
+      --pico-logo-small-sparkles:oklch(84.03% 0.172 84.08);
+      --pico-logo-big-sparkle: oklch(76.52% 0.175 62.57);
     }
     @media only screen and (prefers-color-scheme: dark) {
       :root {
         --pico-logo-wordmark: #fff;
-        --pico-logo-small-sparkles: #ff9500;
-        --pico-logo-big-sparkle: #ffbf00;
+        --pico-logo-small-sparkles: oklch(76.52% 0.175 62.57);
+        --pico-logo-big-sparkle: oklch(84.03% 0.172 84.08);
       }
     }
     .pico-logo-wordmark {

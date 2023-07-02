@@ -41,6 +41,7 @@ Shipped with two beautiful color themes, automatically enabled according to the 
 - [Browser Support](#browser-support)
 - [Contributing](#contributing)
 - [Copyright and license](#copyright-and-license)
+- [TOYBREAKER INDI DEV](#toybreaker-indi-dev)
 
 # Usage
 
@@ -196,3 +197,8 @@ If you are interested in contributing to Pico CSS, please read our [contributing
 # Copyright and license
 
 Licensed under the [MIT License](https://github.com/picocss/pico/blob/master/LICENSE.md).
+
+# TOYBREAKER INDI [DEV](https://github.com/toybreaker/piko)
+
+1. FIRST. LIVE IN ZE FUTURE!
+```pnpm upgrade```
