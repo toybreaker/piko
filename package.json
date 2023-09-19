@@ -1,6 +1,6 @@
 {
   "name": "@picocss/pico",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Minimal CSS Framework for semantic HTML",
   "author": "Lucas Larroche",
   "contributors": "Toybreaker",
@@ -48,17 +48,17 @@
     "done": "echo '\\033[32m[@picocss/pico] ✨ Done\\033[0m'"
   },
   "devDependencies": {
-    "autoprefixer": "^10.4.14",
+    "autoprefixer": "^10.4.15",
     "caniuse-lite": "1.0.30001481",
     "clean-css-cli": "^5.6.2",
-    "css-declaration-sorter": "^6.4.0",
+    "css-declaration-sorter": "^6.4.1",
     "nodemon": "^2.0.22",
     "npm-run-all": "^4.1.5",
-    "postcss": "^8.4.24",
+    "postcss": "^8.4.30",
     "postcss-cli": "^10.1.0",
-    "postcss-scss": "^4.0.6",
+    "postcss-scss": "^4.0.8",
     "prettier": "^2.8.8",
-    "sass": "^1.63.6"
+    "sass": "^1.67.0"
   },
   "browserslist": [
     ">= 0.5%",
