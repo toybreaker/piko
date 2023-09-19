@@ -1,6 +1,7 @@
 {
   "name": "@picocss/pico",
-  "version": "2.0.3",
+  "version_name": "CIKO ONE",
+  "version": "2.0.4",
   "description": "Minimal CSS Framework for semantic HTML",
   "author": "Lucas Larroche",
   "contributors": "Toybreaker",
