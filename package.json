@@ -1,12 +1,12 @@
 {
   "name": "@picocss/pico",
   "version_name": "CIKO ONE",
-  "version": "2.0.4",
+  "version": "0.1.0",
   "description": "Minimal CSS Framework for semantic HTML",
   "author": "Lucas Larroche",
   "contributors": "Toybreaker",
-  "main": "css/pico.min.css",
-  "homepage": "https://picocss.com",
+  "main": "css/ciko.min.css",
+  "homepage": "https://ciko.rokma.rocks",
   "license": "MIT",
   "repository": {
     "type": "git",
