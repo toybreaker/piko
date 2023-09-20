@@ -15,7 +15,7 @@ $enable-semantic-container: false !default;
 
 // Enable a centered viewport for <header>, <main>, <footer> inside $semantic-root-element
 // Fluid layout if disabled
-$enable-viewport: true !default;
+$enable-viewport: false !default;
 
 // Enable responsive spacings for <header>, <main>, <footer>, <section>, <article>
 // Fixed spacings if disabled
