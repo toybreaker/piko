@@ -50,7 +50,7 @@
 
       > header,
       > footer {
-        padding: calc(var(#{$✨}block-spacing-vertical) * 0.5) var(#{$✨}block-spacing-horizontal);
+        padding: calc(var(#{$✨}spacing) * 0.5) var(#{$✨}block-spacing-horizontal);
       }
 
       > header {

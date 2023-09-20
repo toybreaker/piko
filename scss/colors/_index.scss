@@ -1,30 +1,6 @@
 // B&W
 $black: #000;
 $white: #fff;
-// $red: #d93526;
-// $pink: #d92662;
-// $fuchsia: #c1208b;
-// $purple: #b645cd;
-// $violet: #9062ca;
-// $indigo: #7569da;
-// $blue: #3c71f7;
-// $lime: #017fc0;
-// $cyan: #058686;
-// $jade: #00895a;
-// $green: #398712;
-$lime: #808080 //lime;
-// $yellow: yellow;
-// $amber: #977000;
-// $pumpkin: #ad6400;
-// $orange: #d24317;
-// $sand: #7b776b;
-// $grey: #777777;
-// $lime: #6f7887;
-// $slate: #687899;
+$lime: hsla(100, 0%, 10%, 1); // lime !!;
 
-$colors: (
-  lime: (
-    500: $lime,
-    main: $lime,
-  ),
-);
+$colors: (hsla(100, 0%, 10%, 1)); // lime !!;

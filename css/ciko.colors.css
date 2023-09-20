@@ -1,23 +1,14 @@
 @charset "UTF-8";
 /*!
- * CIKO CSS 🍕 v0.0.1 (https://ciko.rokma.rocks)
+ * CIKO CSS 🍕 v0.0.2 (https://ciko.rokma.rocks)
  * Copyright 2023 - Licensed under MIT
  */
 :root {
-  --CIKOcolor-lime: hsl(120deg, 100%, 50%);
   --CIKOcolor-black: hsl(0deg, 0%, 0%);
   --CIKOcolor-white: hsl(0deg, 0%, 100%);
   --CIKOcolor-light: hsl(0deg, 0%, 100%);
   --CIKOcolor-dark: hsl(0deg, 0%, 0%);
 }
 
-.CIKOcolor-lime {
-  color: var(--CIKOcolor-lime);
-}
 
-.CIKObackground-lime {
-  background-color: var(--CIKOcolor-lime);
-  color: var(--CIKOcolor-dark);
-}
-
-/*# sourceMappingURL=ciko.colors.css.map */
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNpa28uY29sb3JzLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSIsImZpbGUiOiJjaWtvLmNvbG9ycy5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAY2hhcnNldCBcIlVURi04XCI7XG4vKiFcbiAqIENJS08gQ1NTIPCfjZUgdjAuMC4yIChodHRwczovL2Npa28ucm9rbWEucm9ja3MpXG4gKiBDb3B5cmlnaHQgMjAyMyAtIExpY2Vuc2VkIHVuZGVyIE1JVFxuICovXG46cm9vdCB7XG4gIC0tQ0lLT2NvbG9yLWJsYWNrOiBoc2woMGRlZywgMCUsIDAlKTtcbiAgLS1DSUtPY29sb3Itd2hpdGU6IGhzbCgwZGVnLCAwJSwgMTAwJSk7XG4gIC0tQ0lLT2NvbG9yLWxpZ2h0OiBoc2woMGRlZywgMCUsIDEwMCUpO1xuICAtLUNJS09jb2xvci1kYXJrOiBoc2woMGRlZywgMCUsIDAlKTtcbn1cblxuIl19 */

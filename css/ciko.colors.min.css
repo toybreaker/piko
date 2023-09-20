@@ -1,4 +1,4 @@
 @charset "UTF-8";/*!
- * CIKO CSS 🍕 v0.0.1 (https://ciko.rokma.rocks)
+ * CIKO CSS 🍕 v0.0.2 (https://ciko.rokma.rocks)
  * Copyright 2023 - Licensed under MIT
- */:root{--CIKOcolor-lime:hsl(120deg, 100%, 50%);--CIKOcolor-black:hsl(0deg, 0%, 0%);--CIKOcolor-white:hsl(0deg, 0%, 100%);--CIKOcolor-light:hsl(0deg, 0%, 100%);--CIKOcolor-dark:hsl(0deg, 0%, 0%)}.CIKOcolor-lime{color:var(--CIKOcolor-lime)}.CIKObackground-lime{background-color:var(--CIKOcolor-lime);color:var(--CIKOcolor-dark)}
+ */:root{--CIKOcolor-black:hsl(0deg, 0%, 0%);--CIKOcolor-white:hsl(0deg, 0%, 100%);--CIKOcolor-light:hsl(0deg, 0%, 100%);--CIKOcolor-dark:hsl(0deg, 0%, 0%)}
